@@ -7,5 +7,9 @@ namespace TreeHouseComics.Controllers
 {
     public class ComicBooksController : Controller
     {
+        public string Detail()
+        {
+            return "sadqwdqdasdad";
+        }
     }
 }
